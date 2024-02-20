@@ -1,7 +1,6 @@
 use ggez;
 
-mod game; // Add this line to import the `game` module
-
+mod game;
 use game::Game;
 
 fn main() {
